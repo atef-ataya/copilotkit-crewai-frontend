@@ -1,0 +1,33 @@
+{
+  "pages": {
+    "/page": [
+      "static/chunks/node_modules_next_dist_1a6ee436._.js",
+      "static/chunks/src_app_icon_png_mjs_50fb1991._.js",
+      "static/chunks/_55d5df3a._.css",
+      "static/chunks/node_modules_@copilotkit_react-core_dist_f3153480._.js",
+      "static/chunks/5d329_micromark-core-commonmark_dev_lib_84e8c127._.js",
+      "static/chunks/node_modules_zod_lib_index_mjs_ee760afb._.js",
+      "static/chunks/node_modules_fdace61c._.js",
+      "static/chunks/src_app_layout_tsx_aaf7d535._.js",
+      "static/chunks/node_modules_8806b2f5._.js",
+      "static/chunks/node_modules_1dd8fbcd._.js",
+      "static/chunks/node_modules_8da7cbbf._.js",
+      "static/chunks/node_modules_92fc980f._.js",
+      "static/chunks/node_modules_9e6beede._.js",
+      "static/chunks/node_modules_@copilotkit_react-ui_dist_5a62773e._.js",
+      "static/chunks/node_modules_refractor_f85e00c5._.js",
+      "static/chunks/9acf8_d0035826._.js",
+      "static/chunks/node_modules_3e6e432a._.js",
+      "static/chunks/src_3707bdb4._.js",
+      "static/chunks/src_app_page_tsx_5fa516c7._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_fff34f97._.js",
+      "static/chunks/node_modules_next_dist_compiled_react-dom_1f56dc06._.js",
+      "static/chunks/node_modules_next_dist_compiled_38d265cf._.js",
+      "static/chunks/node_modules_next_dist_client_c24f7707._.js",
+      "static/chunks/node_modules_next_dist_3bfaed20._.js",
+      "static/chunks/node_modules_@swc_helpers_cjs_00636ac3._.js",
+      "static/chunks/_e69f0d32._.js",
+      "static/chunks/_a2b209e9._.js"
+    ]
+  }
+}
